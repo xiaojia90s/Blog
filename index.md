@@ -14,10 +14,10 @@ hero:
       link: /src/other-doc.html
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 思考
+    details: 还没想到做啥
+  - title: 期望
+    details: 全干工程师 -> CEO
+  - title: 爱好
+    details: 羽毛球、乒乓球、篮球、排球等
 ---
