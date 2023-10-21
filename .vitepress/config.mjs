@@ -2,7 +2,6 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: "./",
   title: "菜的抠jio的二狗子",
   description: "二狗子的个人博客",
   themeConfig: {
